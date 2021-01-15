@@ -1,6 +1,8 @@
 # Mutual_Fund_Returns
 Spring boot application to calucalate the returns for a Mutaul Fund based on Schema, investment period and Horizon
 
+Used:  mfapi to "GET COMPLETE HISTORY OF INDIA MUTUAL FUNDS DATA OVER JSON API"
+
 HOW TO RUN THIS SPRING BOOT APPLICATION TO GET THE MF RETURNS
 -------------------------------------------------------------
 
