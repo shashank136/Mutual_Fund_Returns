@@ -14,4 +14,4 @@ HOW TO RUN THIS SPRING BOOT APPLICATION TO GET THE MF RETURNS
 	`http://localhost:8080/app?scheme=<SCHEME_NUMBER>&period=<PERIOD>&horizon=<HORIZON>`
 	
 	`e.g.
-	`http://localhost:8080/app?scheme=102885&period=1&horizon=1`
+	`http://localhost:8080/app?scheme=102885&period=1&horizon=1
